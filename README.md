@@ -1,4 +1,10 @@
+# CS79D - Final Project
+
+#### Modified by:
+[Matthew Reynolds](https://www.linkedin.com/in/matttreynolds)
+
 # Automating Deployment of AWS Amplify Apps with Terraform 🎉
+
 #### Created by:
 [Kevon Mayers](https://www.linkedin.com/in/kevonmayers)
 
